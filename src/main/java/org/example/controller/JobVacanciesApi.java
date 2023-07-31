@@ -1,6 +1,5 @@
 package org.example.controller;
 
-import org.example.entities.Biodata;
 import org.example.entities.JobVacancies;
 import org.example.service.JobVacanciesService;
 import org.springframework.beans.factory.annotation.Autowired;
